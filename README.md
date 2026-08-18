@@ -1,7 +1,7 @@
 # Awesome Digital Twins in Sport [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
-  <img src="/.github/logo/Logo_256_circular.png" alt="Awesome Digital Twins in Sport logo" width="126" height="126">
+  <img src=".github/logo/Logo_256_circular.png" alt="Awesome Digital Twins in Sport logo" width="126" height="126">
 </p>
 
 A curated collection of research and resources on digital twins in sport. It brings together core digital-twin studies and the interdisciplinary methods that support athlete modelling, performance analysis, injury prevention, training optimisation, sports education, robotics, and venue management.
